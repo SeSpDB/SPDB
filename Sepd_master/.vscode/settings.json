@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.editor.mouseBackForwardToNavigate": true,
+    "python.pythonPath": "/home/deeplearning/anaconda3/envs/patchlocator/bin/python",
+    "debug.inlineValues": "on"
+}
